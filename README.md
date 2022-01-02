@@ -7,3 +7,4 @@ This is an an end to end machine learning project. It predicts property price in
 #### Machine Learning
 #### Flask
 #### Html, CSS, Javascipt
+#### Numpy, Pandas, Matplotlib, SK-Learn
