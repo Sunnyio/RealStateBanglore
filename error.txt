@@ -1,4 +1,5 @@
 jinja import - install flask=2.0.1
 TypeError: an integer is required (got type bytes) - install python 3.7 instead of 3.8
 error due to incorrectly naming requirements.txt
-error because of temporary file in req.txt
+error because of temporary file in requirements.txt
+remove any unnecessaty line from requirments.txt not even comments
